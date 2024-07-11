@@ -29,7 +29,7 @@ const Resume = () => {
         <li>Node.js</li>
         <li>Express</li>
         </ul>
-      <a href="src/assets/images/resume.pdf" download>Download Resume</a>
+      <a href="assets/images/resume.pdf" download>Download Resume</a>
     </section>
   );
 };
