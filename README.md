@@ -1,25 +1,27 @@
+
 # Luis's Single Page Portfolio (Module 20 React Challenge)
 
-## This Challenge contains my Single Page Portfolio that is running with React to include the following functions:
+## This Challenge contains my single-page portfolio that is running utilizing React to include the following:
 
-- Allows for wesbite visitor to enter a task title, due date, and task description.
-- Once you hit the add task button, the website visitors will be added to the To-do List lane.
-- The user will be free to move tasks to the in prgress lane and done lane as they complete their listed tasks.
-- The information entered is saved locally to the storage.
+- About Me
+  - This section has a brief overview of information about me
+- Portfolio
+  - This section will have my different projects and links to the deployed websites and GitHub repositories
+- Contact
+  - This section will allow users to leave their name, email, and a message
+- Resume
+  - This section will have a brief overview of my resume and a button that the visitor can click and download a copy of my resume
 
-## Installation
+## Website URL and GitHub Repository Links
 
-- To access my personal task manager board website follow link: https://ricanlonghorn23.github.io/Project-Task-Manager-Board/
-- To Access my personal task manager board website repository: https://github.com/ricanlonghorn23/Project-Task-Manager-Board.git
+- To access my Single Page Portfolio website follow the link: https://glistening-haupia-43f012.netlify.app
+- To Access my Single Page Portfolio website repository: https://github.com/ricanlonghorn23/Luis-Professional-Portfolio.git
 
 ## Usage
 
-The user will need to enter the URL https://ricanlonghorn23.github.io/Project-Task-Manager-Board/. When they enter, they will be on the landing page of the personal task manager board. The user will be given a chance to add a task and then enter their task title, due date, and task description. Once they have clicked add task the tasks will be added to the To-Do lane. Once the tasks are added to the To-do lane, the user will be able to drag and drop their task into the In-progress lane and done lane as they complete their listed task. Each task box also has the option to delete the task box at any time. Additionally, each task box based on the due date will change colors. For example, the box will turn red if the due date is past due. If the task date is on the exact due date, the box will turn yellow.
-
-
+The user will need to enter the URL https://glistening-haupia-43f012.netlify.app. When they hit enter, they will be on my professional portfolio About Me page's landing page. The user will be able to click on the portfolio section. In this section, the visitor will have access to my project's deployed websites and GitHub repositories. In the next section, the visitor will be able to click on the contact section. In this section, the visitor will allow users to enter their name, email, and a message. The last section the visitor will be able to click on is the Resume section. In this section, the visitor can view a brief overview of my resume, and a button that the visitor can click will download a copy of my resume to their computer.
 
 ## Credits
-
 Luis Aldaz
 
-![alt text](Images/projecttaskmanager.jpg)
+
